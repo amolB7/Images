@@ -1,0 +1,20 @@
+@import url('reset.css');
+
+/* General Codrops Demo Style */
+body{
+	background:#fff;
+
+}
+
+.clr{
+	clear:both;
+}
+
+/* Header Style */
+
+.content{
+	margin:0px 25px 30px 25px;
+}
+@media screen and (max-width: 640px) {
+
+}
